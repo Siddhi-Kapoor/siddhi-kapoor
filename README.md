@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi,I'm Siddhi
+![](https://github-readme-stats.vercel.app/api?username=siddhi-kapoor&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=siddhi-kapoor&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=siddhi-kapoor&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi-kapoor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--
-**Siddhi-Kapoor/siddhi-kapoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=siddhi-kapoor&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Here are some ideas to get you started:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=siddhi-kapoor&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
