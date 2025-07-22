@@ -7,10 +7,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=siddhi-kapoor&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Top Contributed Repo
+### Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=siddhi-kapoor&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-
 
