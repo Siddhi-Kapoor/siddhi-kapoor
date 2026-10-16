@@ -9,4 +9,5 @@
 
 ### 💡Top Contributed Repositories
 
-![My Top Contributions](https://github-contributor-stats.vercel.app/api?username=Siddhi-Kapoor)
+
+![My Top Contributions](https://github-contribution-card.vercel.app/api?username=Siddhi-Kapoor)
